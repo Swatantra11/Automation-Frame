@@ -8,6 +8,8 @@ public class sampleClass {
 		
 			
 System.out.println("test case 1");
+System.out.println(" trying to push from Swatantra");
+
 	}
 @Test(alwaysRun=true)
 public void sample2() {
